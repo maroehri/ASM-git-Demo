@@ -9,3 +9,7 @@ Add a list of all different git commands and their purpose.
 ### Git add
 
 The command `git add` allows you to ...
+
+### Git commit
+
+The command `git commit` is meant to ...
