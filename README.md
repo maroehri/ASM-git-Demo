@@ -8,7 +8,7 @@ We will provide you with a list of all different git commands and their purpose.
 
 ### Git add
 
-The command `git add` allows you to ...
+The command `git add` allows you to add files that have been changed to the staging area.
 
 ### Git commit
 
