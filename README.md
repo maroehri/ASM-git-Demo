@@ -12,7 +12,9 @@ The command `git add` allows you to ...
 
 ### Git commit
 
-The command `git commit` is meant to ...
+In order to bring changes back into your repo you can use the command `git commit`.
+
+Bla Bla bla
 
 ### Git status
 
