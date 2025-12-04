@@ -12,7 +12,9 @@ The command `git add` allows you to ...
 
 ### Git commit
 
-The command `git commit` is meant to ...
+The command `git commit` is meant to store files that have been changed into the repository.
+
+TODO: Some more explanations ...
 
 ### Git status
 
